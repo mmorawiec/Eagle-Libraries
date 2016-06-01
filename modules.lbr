@@ -160,22 +160,22 @@
 <rectangle x1="6.6" y1="2.7" x2="8" y2="3.7" layer="51"/>
 <text x="0" y="13.25" size="1.27" layer="25" align="center">&gt;NAME</text>
 <text x="0" y="-13.35" size="1.27" layer="27" align="center">&gt;VALUE</text>
-<pad name="8" x="-7.2" y="-10.8" drill="0.8"/>
-<pad name="7" x="-7.2" y="-8.8" drill="0.8"/>
-<pad name="6" x="-7.2" y="-6.8" drill="0.8"/>
-<pad name="5" x="-7.2" y="-4.8" drill="0.8"/>
-<pad name="4" x="-7.2" y="-2.8" drill="0.8"/>
-<pad name="3" x="-7.2" y="-0.8" drill="0.8"/>
-<pad name="2" x="-7.2" y="1.2" drill="0.8"/>
-<pad name="1" x="-7.2" y="3.2" drill="0.8"/>
-<pad name="9" x="7.2" y="-10.8" drill="0.8"/>
-<pad name="10" x="7.2" y="-8.8" drill="0.8"/>
-<pad name="11" x="7.2" y="-6.8" drill="0.8"/>
-<pad name="12" x="7.2" y="-4.8" drill="0.8"/>
-<pad name="13" x="7.2" y="-2.8" drill="0.8"/>
-<pad name="14" x="7.2" y="-0.8" drill="0.8"/>
-<pad name="15" x="7.2" y="1.2" drill="0.8"/>
-<pad name="16" x="7.2" y="3.2" drill="0.8"/>
+<pad name="8" x="-7.2" y="-10.8" drill="0.8" shape="square"/>
+<pad name="7" x="-7.2" y="-8.8" drill="0.8" shape="square"/>
+<pad name="6" x="-7.2" y="-6.8" drill="0.8" shape="square"/>
+<pad name="5" x="-7.2" y="-4.8" drill="0.8" shape="square"/>
+<pad name="4" x="-7.2" y="-2.8" drill="0.8" shape="square"/>
+<pad name="3" x="-7.2" y="-0.8" drill="0.8" shape="square"/>
+<pad name="2" x="-7.2" y="1.2" drill="0.8" shape="square"/>
+<pad name="1" x="-7.2" y="3.2" drill="0.8" shape="square"/>
+<pad name="9" x="7.2" y="-10.8" drill="0.8" shape="square"/>
+<pad name="10" x="7.2" y="-8.8" drill="0.8" shape="square"/>
+<pad name="11" x="7.2" y="-6.8" drill="0.8" shape="square"/>
+<pad name="12" x="7.2" y="-4.8" drill="0.8" shape="square"/>
+<pad name="13" x="7.2" y="-2.8" drill="0.8" shape="square"/>
+<pad name="14" x="7.2" y="-0.8" drill="0.8" shape="square"/>
+<pad name="15" x="7.2" y="1.2" drill="0.8" shape="square"/>
+<pad name="16" x="7.2" y="3.2" drill="0.8" shape="square"/>
 </package>
 <package name="ESP8266-12_THT_EDGE">
 <wire x1="-8" y1="-12" x2="8" y2="-12" width="0.127" layer="21"/>
@@ -220,22 +220,22 @@
 <rectangle x1="6.6" y1="2.7" x2="8" y2="3.7" layer="51"/>
 <text x="0" y="13.25" size="1.27" layer="25" align="center">&gt;NAME</text>
 <text x="0" y="-13.35" size="1.27" layer="27" align="center">&gt;VALUE</text>
-<pad name="8" x="-8.1" y="-10.8" drill="0.8"/>
-<pad name="7" x="-8.1" y="-8.8" drill="0.8"/>
-<pad name="6" x="-8.1" y="-6.8" drill="0.8"/>
-<pad name="5" x="-8.1" y="-4.8" drill="0.8"/>
-<pad name="4" x="-8.1" y="-2.8" drill="0.8"/>
-<pad name="3" x="-8.1" y="-0.8" drill="0.8"/>
-<pad name="2" x="-8.1" y="1.2" drill="0.8"/>
-<pad name="1" x="-8.1" y="3.2" drill="0.8"/>
-<pad name="9" x="8.1" y="-10.8" drill="0.8"/>
-<pad name="10" x="8.1" y="-8.8" drill="0.8"/>
-<pad name="11" x="8.1" y="-6.8" drill="0.8"/>
-<pad name="12" x="8.1" y="-4.8" drill="0.8"/>
-<pad name="13" x="8.1" y="-2.8" drill="0.8"/>
-<pad name="14" x="8.1" y="-0.8" drill="0.8"/>
-<pad name="15" x="8.1" y="1.2" drill="0.8"/>
-<pad name="16" x="8.1" y="3.2" drill="0.8"/>
+<pad name="8" x="-8.1" y="-10.8" drill="0.8" shape="square"/>
+<pad name="7" x="-8.1" y="-8.8" drill="0.8" shape="square"/>
+<pad name="6" x="-8.1" y="-6.8" drill="0.8" shape="square"/>
+<pad name="5" x="-8.1" y="-4.8" drill="0.8" shape="square"/>
+<pad name="4" x="-8.1" y="-2.8" drill="0.8" shape="square"/>
+<pad name="3" x="-8.1" y="-0.8" drill="0.8" shape="square"/>
+<pad name="2" x="-8.1" y="1.2" drill="0.8" shape="square"/>
+<pad name="1" x="-8.1" y="3.2" drill="0.8" shape="square"/>
+<pad name="9" x="8.1" y="-10.8" drill="0.8" shape="square"/>
+<pad name="10" x="8.1" y="-8.8" drill="0.8" shape="square"/>
+<pad name="11" x="8.1" y="-6.8" drill="0.8" shape="square"/>
+<pad name="12" x="8.1" y="-4.8" drill="0.8" shape="square"/>
+<pad name="13" x="8.1" y="-2.8" drill="0.8" shape="square"/>
+<pad name="14" x="8.1" y="-0.8" drill="0.8" shape="square"/>
+<pad name="15" x="8.1" y="1.2" drill="0.8" shape="square"/>
+<pad name="16" x="8.1" y="3.2" drill="0.8" shape="square"/>
 </package>
 <package name="ESP8266-12_THT_BOTH">
 <wire x1="-8" y1="-12" x2="8" y2="-12" width="0.127" layer="21"/>
