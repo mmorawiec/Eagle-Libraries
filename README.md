@@ -7,6 +7,9 @@ CadSoft Eagle PCB Libraries
 * Amphenol T821120A1R100CEU
 * Harwin Archer M52-5151045
 
+## ICs
+* AP2114H
+
 ## Modules
 * ESP8266-12 WiFi module
 
